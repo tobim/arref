@@ -1,0 +1,2 @@
+implementation of make_array was taken from:
+http://en.cppreference.com/w/cpp/experimental/make_array
